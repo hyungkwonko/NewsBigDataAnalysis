@@ -12,26 +12,26 @@ This repository includes 4 APIs made in news big data hackathon in April 2019. T
 <br>
 
 ### [API 01. Sentiment Analysis](https://github.com/hyungkwonko/NewsBigDataAnalysis/tree/master/SentimentAnalysis)
-![](https://github.com/hyungkwonko/NewsBigDataAnalysis/blob/master/img/pic2.jpg)
+![](https://github.com/hyungkwonko/NewsBigDataAnalysis/blob/master/img/pic2.PNG)
 
 This project was for the Linux, not xv6. Made a simple user-level command line interpreter(shell). Both Interactive mode & Batch mode are implemented in the code.
 
 <br>
 
 ### [API 02. Related Keywords](https://github.com/hyungkwonko/NewsBigDataAnalysis/tree/master/RelatedKeywords)
-![](https://github.com/hyungkwonko/NewsBigDataAnalysis/blob/master/img/pic3.jpg)
+![](https://github.com/hyungkwonko/NewsBigDataAnalysis/blob/master/img/pic3.PNG)
 
 <br>
 
 ### [API 03. Article 2 Vector](https://github.com/hyungkwonko/NewsBigDataAnalysis/tree/master/A2V)
-![](https://github.com/hyungkwonko/NewsBigDataAnalysis/blob/master/img/pic4.jpg)
+![](https://github.com/hyungkwonko/NewsBigDataAnalysis/blob/master/img/pic4.PNG)
 
 Optimizing the deep learning architecture, we made a new classifying algorithm, so-called Article 2 Vector. After appropriate 
 
 <br>
 
 ### [API 04. Clustering](https://github.com/hyungkwonko/NewsBigDataAnalysis/tree/master/A2V)
-![](https://github.com/hyungkwonko/NewsBigDataAnalysis/blob/master/img/pic5.jpg)
+![](https://github.com/hyungkwonko/NewsBigDataAnalysis/blob/master/img/pic5.PNG)
 
 Furthermore, Article 2 Vector can work for clustering. As the similar articles have similar vectors in the higher dimension, we classified them based on the cosine similarity between them.
 
