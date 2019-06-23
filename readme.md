@@ -14,12 +14,14 @@ This repository includes 3 APIs made in news big data hackathon in April 2019. T
 ### [API 01. Sentiment Analysis](https://github.com/hyungkwonko/NewsBigDataAnalysis/tree/master/SentimentAnalysis)
 ![](https://github.com/hyungkwonko/NewsBigDataAnalysis/blob/master/img/pic2.png)
 
-This project was for the Linux, not xv6. Made a simple user-level command line interpreter(shell). Both Interactive mode & Batch mode are implemented in the code.
+With the neural network architecture, the model learns whether the given sentence is positive or negative. Going through the grid search made it possible to find the best parameter for the model. After building this model, we made a histogram which shows the sentiment toward a single keyword.
 
 <br>
 
 ### [API 02. Related Keywords](https://github.com/hyungkwonko/NewsBigDataAnalysis/tree/master/RelatedKeywords)
 ![](https://github.com/hyungkwonko/NewsBigDataAnalysis/blob/master/img/pic3.png)
+
+There are keywords that matters for each individual. We tried to combine the data we get from news article and the feelings of people from one of the famous social media, Twitter. Since Twitter data is free to use for everyone, we were able to use it getting more insight. 
 
 <br>
 
