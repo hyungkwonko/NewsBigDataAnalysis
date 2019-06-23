@@ -3,9 +3,9 @@
 
 ![](https://github.com/hyungkwonko/NewsBigDataAnalysis/blob/master/img/pic1.jpg)
 
-Host: [Korea Press Foundation](http://www.kpf.or.kr/site/kpf/main.do)
+### Host: [Korea Press Foundation](http://www.kpf.or.kr/site/kpf/main.do)
 
-Result: Finalist
+### Result: Finalist
 
 This repository includes 3 APIs made in news big data hackathon in April 2019. Teams were assigned to develop a business model to create value using news big data. We made a web service platform that shows multi-Indicator of given keyword to understand how influential it is. We made a **[demo video](https://youtu.be/NUF3Wh3QoEs)**.
 
